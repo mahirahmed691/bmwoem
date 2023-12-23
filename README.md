@@ -12,8 +12,8 @@ This React Native app allows users to view BMW car data, apply filters, and sear
 
 <!-- Add screenshots of your app in action. You can use an online image hosting service and include links here. -->
 
-![Screenshot 1](https://github.com/mahirahmed691/bmwoem/blob/main/assets/home.png)
-![Screenshot 2](https://github.com/mahirahmed691/bmwoem/blob/main/assets/dashboard.png)
+<img src="https://github.com/mahirahmed691/bmwoem/blob/main/assets/home.png" alt="Screenshot 1" width="400" />
+<img src="https://github.com/mahirahmed691/bmwoem/blob/main/assets/dashboard.png" alt="Screenshot 2" width="400" />
 
 ## Getting Started
 
